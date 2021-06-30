@@ -5,7 +5,7 @@ I'm an emerging software developer. I was born in Nepal.  I moved to the United 
 - 😄 I believe in the room for learning and space for improvements. I follow the motto of Learning Today and Leading Tomorrow.
 - 🌱 doing my internship as a full stack developer at [Algorizn](https://www.algorizin.com). I am using Javascript, HTML,CSS, Java, with MERN (MongoDB, Express Js, React, Node Js) stack.
 - 🤔 Also interested in Cloud Architecture, and Machine Learning.
-📫 you can reach me out through [Linkedin](https://www.linkedin.com/in/bikram-rumba/) or [Twitter](https://twitter.com/rumbikram1231)
+📫 
 - ⚡ Fun fact: ... I'm a huge fan of music. However, I'm worst at singing and playing music☺️😁. I love hiking, and driving up to the mountains with some sorts of music.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -31,7 +31,10 @@ I'm an emerging software developer. I was born in Nepal.  I moved to the United 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
- 
+ <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+  [Linkedin](https://www.linkedin.com/in/bikram-rumba/) 
+  [Twitter](https://twitter.com/rumbikram1231)
+  [Email](rumbikram123@gmail.com)
 
 
 <!--
