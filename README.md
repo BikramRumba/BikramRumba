@@ -32,9 +32,9 @@ I'm an emerging software developer. I was born in Nepal.  I moved to the United 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
  <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-  [Linkedin](https://www.linkedin.com/in/bikram-rumba/) 
-  [Twitter](https://twitter.com/rumbikram1231)
-  [Email](rumbikram123@gmail.com)
+  - [Linkedin](https://www.linkedin.com/in/bikram-rumba/) 
+  - [Twitter](https://twitter.com/rumbikram1231)
+  - [Email](rumbikram123@gmail.com)
 
 
 <!--
