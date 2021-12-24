@@ -34,7 +34,7 @@ I'm an emerging software developer. I was born in Nepal.  I moved to the United 
   🤝🏻 Connect with Me 
   - [Linkedin](https://www.linkedin.com/in/bikram-rumba/) 
  
-  - [Email](rumbikram123@gmail.com)
+  - [Email](https://mail.google.com/mail/u/1/#inbox?compose=new)
   
   - [Twitter](https://twitter.com/rumbikram1231)
 
