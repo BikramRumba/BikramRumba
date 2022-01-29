@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Check Out my [Website](https://bikram-portfolio.netlify.app)
+
