@@ -3,7 +3,7 @@
 I'm an emerging software developer. I was born in Nepal.  I moved to the United States on January 12,  2017, to pursue my Bachelor's in Computer Information Systems at [Columbia College](https://www.ccis.edu). My passion and patience are driving me towards the journey. My soul is passionate about software development and Technology.
 
 - 😄 I believe in the room for learning and space for improvements. I follow the motto of Learning Today and Leading Tomorrow.
-- 🌱 doing my internship as a full stack developer at [Algorizn](https://www.algorizin.com). I am using Javascript, HTML,CSS, Java, with MERN (MongoDB, Express Js, React, Node Js) stack.
+- 🌱 doing my internship as a full stack developer at [Algorizn](https://www.algorizin.com). I am using Javascript, HTML,CSS,  with MERN (MongoDB, Express Js, React, Node Js) stack.
 - 🤔 Also interested in Cloud Architecture, and Machine Learning.
 📫 
 - ⚡ Fun fact: ... I'm a huge fan of music. However, I'm worst at singing and playing music☺️😁. I love hiking, and driving up to the mountains with some sorts of music.
