@@ -19,7 +19,7 @@ I'm an emerging software developer. I was born in Nepal.  I moved to the United 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 💻 &nbsp;
  
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
  
 
 - 🛢 &nbsp;
